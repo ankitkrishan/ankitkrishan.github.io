@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    height: 0;
+}
+h1{
+    color: #66BFBF;
+    font: italic 3em "Fira Sans", serif;
+    background-color: #e25822;
+    text-align: center;
+    width: 110%;
+}
+h3{
+    color: red;
+    font: italic 1.2em "Fira Sans", serif;
+    background-color: yellow;
+    width: 10%;
+}
+a {
+    color: orange;
+    font-style: italic;
+}
+img {
+    width: 199px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: orange;
+    background-color: greenyellow;
+}
