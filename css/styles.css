@@ -45,6 +45,7 @@ a {
     margin-bottom: 100px;
     text-align: left;
     line-height: 2;
+    /* height: 150px; */
 }
 .code-img {
     width: 25%;
@@ -60,6 +61,7 @@ hr {
     border-width: 5px;
     width: 5%;
     height: 0;
+    clear: right;
 }
 .bottom-container{
     background-color: #66BFBF;
@@ -72,4 +74,17 @@ hr {
 }
 .ending {
     margin-top: 55px;
+}
+.languages {
+    width: 40px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+.text {
+    bottom: 15px;
+    float: left;
+}
+.skills-languages{
+    margin-left: 150px;
 }
