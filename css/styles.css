@@ -76,15 +76,17 @@ hr {
     margin-top: 55px;
 }
 .languages {
-    width: 40px;
-    float: left;
-    margin-right: 20px;
-    margin-left: 40px;
+    width: 50px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: inline;
 }
-.text {
-    bottom: 15px;
-    float: left;
+.skill-languages{
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
 }
-.skills-languages{
-    margin-left: 150px;
+.tools {
+    width: 50px;
 }
