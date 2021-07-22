@@ -65,7 +65,7 @@ hr {
 }
 .bottom-container{
     background-color: #66BFBF;
-    height: 150px;
+    height: 100px;
 }
 .footer-link {
     position: relative;
@@ -87,7 +87,6 @@ hr {
     margin-left: auto;
     margin-right: auto;
 }
-
 .tools {
     width: 50px;
 }
