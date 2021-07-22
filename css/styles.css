@@ -65,7 +65,7 @@ hr {
 }
 .bottom-container{
     background-color: #66BFBF;
-    height: 100px;
+    height: 150px;
 }
 .footer-link {
     position: relative;
@@ -83,10 +83,18 @@ hr {
     display: inline;
 }
 .skill-languages{
-    margin-right: auto;
-    margin-left: auto;
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .tools {
+    width: 50px;
+}
+.links-img-github{
+    width: 40px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.links-img-linkedin{
     width: 50px;
 }
