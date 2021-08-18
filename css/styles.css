@@ -26,13 +26,17 @@ h3 {
     width: 100% !important;
 }
 .bottom-cloud {
-    position: absolute !important;
-    top: 200px !important;
+    margin-right: 35%;
+    margin-top: 1%;
+    width: 15%;
+    padding-top: 5%;
+    padding: 2%;
 }
 .top-cloud {
-    position: absolute !important;
-    right: 400px !important;
-    top: 50px !important;
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 15%;
+    padding: 2%
 }
 a {
     color: #11999E;
@@ -87,4 +91,7 @@ hr {
 }
 .skills{
     padding-bottom: 10px;
+}
+.mountain{
+    width: 50%;
 }
